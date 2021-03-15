@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "Kontakt";
+    if (User.IsInRole("Administrator"))
+    {
+        Layout = "~/Views/Administrator/_AdminLayout.cshtml";
+    }
+    else if (User.IsInRole("Dispatcher"))
+    {
+        Layout = "~/Views/Dispatcher/_DispatcherLayout.cshtml";
+    }
+    else if (User.IsInRole("Worker"))
+    {
+        Layout = "~/Views/Worker/_WorkerLayout.cshtml";
+    }
+}
+<br />
+<br />
+<br />
+<br />
+<center>
+    <address>
+        One Microsoft Way<br />
+        Redmond, WA 98052-6399<br />
+        <abbr title="Phone">P:</abbr>
+        425.555.0100
+    </address>
+
+    <address>
+        <strong>Support:</strong>   <a href="mailto:Support@example.com">Support@example.com</a><br />
+        <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+    </address>
+</center>
+<br />
+<br />
+<br />
+<br />
