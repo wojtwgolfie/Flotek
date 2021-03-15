@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FlotekDatabaseModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Profiles">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar(max)" />
+    <Property Name="Imię" Type="nvarchar(max)" />
+    <Property Name="Nazwisko" Type="nvarchar(max)" />
+    <Property Name="Miasto" Type="nvarchar(max)" />
+    <Property Name="Zakład" Type="nvarchar(max)" />
+    <Property Name="Profile_Id" Type="int" />
+  </EntityType>
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'FlotekDatabase.dbo.Worker' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Worker">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar(max)" />
+  </EntityType>
+  <Association Name="FK_dbo_Profiles_dbo_Profiles_Profile_Id">
+    <End Role="Profiles" Type="Self.Profiles" Multiplicity="0..1" />
+    <End Role="Profiles1" Type="Self.Profiles" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Profiles">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Profiles1">
+        <PropertyRef Name="Profile_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="FlotekDatabaseModelStoreContainer">
+    <EntitySet Name="Profiles" EntityType="Self.Profiles" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Worker" EntityType="Self.Worker" store:Type="Views" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Worker].[Id] AS [Id], 
+    [Worker].[UserName] AS [UserName]
+    FROM [dbo].[Worker] AS [Worker]</DefiningQuery>
+    </EntitySet>
+    <AssociationSet Name="FK_dbo_Profiles_dbo_Profiles_Profile_Id" Association="Self.FK_dbo_Profiles_dbo_Profiles_Profile_Id">
+      <End Role="Profiles" EntitySet="Profiles" />
+      <End Role="Profiles1" EntitySet="Profiles" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

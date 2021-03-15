@@ -1,0 +1,706 @@
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Master Project.dll.config
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Master Project.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Master Project.pdb
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\csc.exe
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\csc.exe.config
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\csc.rsp
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\csi.exe
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\csi.exe.config
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\csi.rsp
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.AppContext.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.Console.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\vbc.exe
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\vbc.exe.config
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\vbc.rsp
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Antlr3.Runtime.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\EntityFramework.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\EntityFramework.SqlServer.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.Owin.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.Owin.Security.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Newtonsoft.Json.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Owin.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\System.Web.Helpers.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\System.Web.Mvc.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\System.Web.Optimization.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\System.Web.Razor.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\System.Web.WebPages.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\WebGrease.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\System.Web.Helpers.xml
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\System.Web.Mvc.xml
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\System.Web.Optimization.xml
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\System.Web.Razor.xml
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\System.Web.WebPages.xml
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Newtonsoft.Json.xml
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Antlr3.Runtime.pdb
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\EntityFramework.xml
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.Owin.xml
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.Owin.Security.xml
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\obj\Debug\Master Project.csprojAssemblyReference.cache
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\obj\Debug\Master Project.csproj.CoreCompileInputs.cache
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\obj\Debug\Master Project.csproj.CopyComplete
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\obj\Debug\Master Project.dll
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\obj\Debug\Master Project.pdb
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\obj\Debug\Master_Project.Properties.Resources.resources
+C:\Users\Maciej Komar\source\repos\Master Project\Master Project\obj\Debug\Master Project.csproj.GenerateResource.cache
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Master Project.dll.config
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Master Project.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Master Project.pdb
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\csc.exe
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\csc.exe.config
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\csc.rsp
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\csi.exe
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\csi.exe.config
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\csi.rsp
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.AppContext.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.Console.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\vbc.exe
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\vbc.exe.config
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\vbc.rsp
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\T60\Desktop\Master Project\Master Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Antlr3.Runtime.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\EntityFramework.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\EntityFramework.SqlServer.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.Owin.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Newtonsoft.Json.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Owin.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\System.Web.Helpers.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\System.Web.Mvc.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\System.Web.Optimization.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\System.Web.Razor.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\System.Web.WebPages.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\WebGrease.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\EntityFramework.xml
+C:\Users\T60\Desktop\Master Project\Master Project\bin\EntityFramework.SqlServer.xml
+C:\Users\T60\Desktop\Master Project\Master Project\bin\System.Web.Helpers.xml
+C:\Users\T60\Desktop\Master Project\Master Project\bin\System.Web.Mvc.xml
+C:\Users\T60\Desktop\Master Project\Master Project\bin\System.Web.Optimization.xml
+C:\Users\T60\Desktop\Master Project\Master Project\bin\System.Web.Razor.xml
+C:\Users\T60\Desktop\Master Project\Master Project\bin\System.Web.WebPages.xml
+C:\Users\T60\Desktop\Master Project\Master Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\T60\Desktop\Master Project\Master Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Newtonsoft.Json.xml
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Antlr3.Runtime.pdb
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.Owin.xml
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.xml
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\T60\Desktop\Master Project\Master Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\T60\Desktop\Master Project\Master Project\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\pl\System.Web.Razor.resources.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\T60\Desktop\Master Project\Master Project\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\T60\Desktop\Master Project\Master Project\obj\Debug\Master Project.csprojAssemblyReference.cache
+C:\Users\T60\Desktop\Master Project\Master Project\obj\Debug\Master_Project.Properties.Resources.resources
+C:\Users\T60\Desktop\Master Project\Master Project\obj\Debug\Master Project.csproj.GenerateResource.cache
+C:\Users\T60\Desktop\Master Project\Master Project\obj\Debug\Master Project.csproj.CoreCompileInputs.cache
+C:\Users\T60\Desktop\Master Project\Master Project\obj\Debug\Master Project.csproj.CopyComplete
+C:\Users\T60\Desktop\Master Project\Master Project\obj\Debug\Master Project.dll
+C:\Users\T60\Desktop\Master Project\Master Project\obj\Debug\Master Project.pdb
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Master Project.dll.config
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Master Project.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Master Project.pdb
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\csc.exe
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\csc.exe.config
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\csc.rsp
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\csi.exe
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\csi.exe.config
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\csi.rsp
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.AppContext.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.Console.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\vbc.exe
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\vbc.exe.config
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\vbc.rsp
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Antlr3.Runtime.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\EntityFramework.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\EntityFramework.SqlServer.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.Owin.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Newtonsoft.Json.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Owin.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\System.Web.Helpers.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\System.Web.Mvc.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\System.Web.Optimization.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\System.Web.Razor.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\System.Web.WebPages.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\WebGrease.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\EntityFramework.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\System.Web.Helpers.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\System.Web.Mvc.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\System.Web.Optimization.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\System.Web.Razor.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\System.Web.WebPages.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Newtonsoft.Json.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Antlr3.Runtime.pdb
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.Owin.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\obj\Debug\Master Project.csprojAssemblyReference.cache
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\obj\Debug\Master_Project.Properties.Resources.resources
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\obj\Debug\Master Project.csproj.GenerateResource.cache
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\obj\Debug\Master Project.csproj.CoreCompileInputs.cache
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\obj\Debug\Master Project.csproj.CopyComplete
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\obj\Debug\Master Project.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\obj\Debug\Master Project.pdb
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\obj\Debug\Master Project.csprojAssemblyReference.cache
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\obj\Debug\Master_Project.Properties.Resources.resources
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\obj\Debug\Master Project.csproj.GenerateResource.cache
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\obj\Debug\Master Project.csproj.CoreCompileInputs.cache
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Master Project.dll.config
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Master Project.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Master Project.pdb
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\csc.exe
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\csc.exe.config
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\csc.rsp
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\csi.exe
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\csi.exe.config
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\csi.rsp
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.AppContext.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.Console.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\vbc.exe
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\vbc.exe.config
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\vbc.rsp
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Antlr3.Runtime.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\EntityFramework.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\EntityFramework.SqlServer.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.Owin.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Newtonsoft.Json.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Owin.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\System.Web.Helpers.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\System.Web.Mvc.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\System.Web.Optimization.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\System.Web.Razor.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\System.Web.WebPages.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\WebGrease.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\EntityFramework.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\System.Web.Helpers.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\System.Web.Mvc.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\System.Web.Optimization.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\System.Web.Razor.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\System.Web.WebPages.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Newtonsoft.Json.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Antlr3.Runtime.pdb
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.Owin.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\obj\Debug\Master Project.csproj.CopyComplete
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\obj\Debug\Master Project.dll
+C:\Users\Maciej Komar\Desktop\Master Project\Master Project\Master Project\obj\Debug\Master Project.pdb
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Master Project.dll.config
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Master Project.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Master Project.pdb
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\csc.exe
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\csc.exe.config
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\csc.rsp
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\csi.exe
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\csi.exe.config
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\csi.rsp
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.AppContext.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.Console.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\vbc.exe
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\vbc.exe.config
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\vbc.rsp
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Antlr3.Runtime.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\EntityFramework.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\EntityFramework.SqlServer.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.Owin.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Newtonsoft.Json.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Owin.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\System.Web.Helpers.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\System.Web.Mvc.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\System.Web.Optimization.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\System.Web.Razor.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\System.Web.WebPages.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\WebGrease.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\EntityFramework.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\System.Web.Helpers.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\System.Web.Mvc.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\System.Web.Optimization.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\System.Web.Razor.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\System.Web.WebPages.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Newtonsoft.Json.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Antlr3.Runtime.pdb
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.Owin.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\obj\Debug\Master_Project.Properties.Resources.resources
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\obj\Debug\Master Project.csproj.GenerateResource.cache
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\obj\Debug\Master Project.csproj.CoreCompileInputs.cache
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\obj\Debug\Master Project.csproj.CopyComplete
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\obj\Debug\Master Project.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\obj\Debug\Master Project.pdb
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\obj\Debug\Master Project.csprojAssemblyReference.cache
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Master Project.dll.config
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Master Project.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Master Project.pdb
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\csc.exe
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\csc.exe.config
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\csc.rsp
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\csi.exe
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\csi.exe.config
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\csi.rsp
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.AppContext.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.Console.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.IO.Compression.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.Security.Claims.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.ValueTuple.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\vbc.exe
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\vbc.exe.config
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\vbc.rsp
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\VBCSCompiler.exe
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Antlr3.Runtime.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\EntityFramework.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\EntityFramework.SqlServer.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.Owin.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Newtonsoft.Json.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Owin.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\System.Web.Helpers.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\System.Web.Mvc.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\System.Web.Optimization.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\System.Web.Razor.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\System.Web.WebPages.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\System.Web.WebPages.Razor.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\WebGrease.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\EntityFramework.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\EntityFramework.SqlServer.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\System.Web.Helpers.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\System.Web.Mvc.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\System.Web.Optimization.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\System.Web.Razor.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\System.Web.WebPages.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\System.Web.WebPages.Razor.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Newtonsoft.Json.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Antlr3.Runtime.pdb
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.Owin.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\pl\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\pl\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\pl\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\obj\Debug\Master_Project.Properties.Resources.resources
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\obj\Debug\Master Project.csproj.GenerateResource.cache
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\obj\Debug\Master Project.csproj.CoreCompileInputs.cache
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\obj\Debug\Master Project.csproj.CopyComplete
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\obj\Debug\Master Project.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\obj\Debug\Master Project.pdb
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\PagedList.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\PagedList.Mvc.dll
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\PagedList.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\bin\PagedList.Mvc.xml
+C:\Users\Maciej Komar\Desktop\Master Project v1\Master Project\Master Project\Master Project\Master Project\obj\Debug\Master Project.csprojAssemblyReference.cache

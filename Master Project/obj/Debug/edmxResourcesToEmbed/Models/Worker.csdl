@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="FlotekDatabaseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Profiles">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Imię" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Nazwisko" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Miasto" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Zakład" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Profile_Id" Type="Int32" />
+    <NavigationProperty Name="Profiles1" Relationship="Self.FK_dbo_Profiles_dbo_Profiles_Profile_Id" FromRole="Profiles" ToRole="Profiles1" />
+    <NavigationProperty Name="Profiles2" Relationship="Self.FK_dbo_Profiles_dbo_Profiles_Profile_Id" FromRole="Profiles1" ToRole="Profiles" />
+  </EntityType>
+  <EntityType Name="Worker">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserName" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <Association Name="FK_dbo_Profiles_dbo_Profiles_Profile_Id">
+    <End Role="Profiles" Type="Self.Profiles" Multiplicity="0..1" />
+    <End Role="Profiles1" Type="Self.Profiles" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Profiles">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Profiles1">
+        <PropertyRef Name="Profile_Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="FlotekDatabaseEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Profiles" EntityType="Self.Profiles" />
+    <EntitySet Name="Worker" EntityType="Self.Worker" />
+    <AssociationSet Name="FK_dbo_Profiles_dbo_Profiles_Profile_Id" Association="Self.FK_dbo_Profiles_dbo_Profiles_Profile_Id">
+      <End Role="Profiles" EntitySet="Profiles" />
+      <End Role="Profiles1" EntitySet="Profiles" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
